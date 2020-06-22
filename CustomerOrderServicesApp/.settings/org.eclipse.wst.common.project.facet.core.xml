@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
-  <runtime name="WebSphere Application Server traditional V9.0"/>
+  <runtime name="Liberty Runtime"/>
   <fixed facet="jst.ear"/>
   <installed facet="jst.ear" version="5.0"/>
   <installed facet="com.ibm.websphere.coexistence.ear" version="9.0"/>

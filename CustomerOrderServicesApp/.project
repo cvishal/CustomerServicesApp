@@ -3,7 +3,6 @@
 	<name>CustomerOrderServicesApp</name>
 	<comment></comment>
 	<projects>
-		<project>CustomerOrderServicesTest</project>
 		<project>CustomerOrderServices</project>
 		<project>CustomerOrderServicesWeb</project>
 	</projects>
